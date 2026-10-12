@@ -1,0 +1,40 @@
+header, footer{
+    background-color: cadetblue;
+    height: 200px;
+    padding-left: 100px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+main{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+main{
+    height: 900px;
+}
+
+h1, h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+
+}
+nav{
+    display: flex;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 400px;
+    width: auto;
+    border: dotted black;
+    border-radius: 50px;
+}
+
+table{
+    border: 1px solid black;
+}
